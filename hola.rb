@@ -1,6 +1,6 @@
 a, b = 1, 2
-c = a * b
+c = a * b + 1
 
 d = a + b + c
-puts "results "+ c.to_s
-puts "results "+ c.to_s
+puts "Results "+ c.to_s
+puts "Results "+ c.to_s
